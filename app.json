@@ -1,4 +1,6 @@
 {
+  "name": "TriviaGame",
+  "displayName": "Trivia Game",
   "expo": {
     "sdkVersion": "26.0.0"
   }
